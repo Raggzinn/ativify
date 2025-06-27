@@ -1,0 +1,17 @@
+# Build
+build/
+dist/
+
+# NetBeans private config
+nbproject/private/
+
+# IDE
+.nb-gradle/
+*.class
+
+# Duplicate/Archive
+Ativify/
+
+# OS
+.DS_Store
+Thumbs.db
